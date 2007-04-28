@@ -1,6 +1,6 @@
 ---
 name: Wx-Perl-TreeView
-version: 0.01
+version: 0.02
 author:
   - 'Mattia Barbon <mbarbon@cpan.org>'
 abstract: virtual tree control interface
@@ -13,7 +13,7 @@ requires:
 provides:
   Wx::Perl::TreeView:
     file: lib/Wx/Perl/TreeView.pm
-    version: 0.01
+    version: 0.02
   Wx::Perl::TreeView::Model:
     file: lib/Wx/Perl/TreeView/Model.pm
   Wx::Perl::TreeView::SimpleModel:
